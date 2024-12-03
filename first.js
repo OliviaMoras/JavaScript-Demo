@@ -26,3 +26,9 @@ ac_city="goa"
 let acc_state
 
 console.log([id, ac_email,acpassword,ac_city,acc_state ])
+
+"use strict"; // treat all JS Code as newer version
+
+//alert(3+3)  we cant use beacuse of node
+
+//number, bigint, string, boolean, null, undefined, symbol, object
